@@ -1,0 +1,45 @@
+* {
+    font-family: Helvetica;
+}
+.b1{
+    background-color: #AF4448;
+    color: white;  
+    text-align: center;
+    height: 20px;
+    
+    
+}
+
+.l1{ 
+    background-color: #FFA4A2;
+    width: 50%;
+    height: 650px;
+    float: left;
+} 
+
+.p1{
+    background-color: #FFA4A2;
+    height: 650px;
+    width: 50%;
+    float: left;
+    
+    
+}
+
+.s1{ 
+    background-color: #AF4448;
+    color: white;
+    text-align: center;
+    clear: both;
+    height: 20px;
+   
+} 
+.b1 h4{
+    margin: 0px;
+} 
+.pr1{
+    background-color: #AF4448;
+    color: white; 
+    padding: 5px;
+    margin: 10px;
+}
